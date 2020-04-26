@@ -14,7 +14,7 @@ $ git clone https://github.com/Trainer-Pokemon/Bonstri
 
 $ cd Bons3
 
-$ php gas.php
+$ php sikat.php
 
 Silahkan isi no tri kalian dan masukkan otp atau kode yang dikirimkan lewat sms.
 
