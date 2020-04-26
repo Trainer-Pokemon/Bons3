@@ -10,7 +10,7 @@ $ pkg install git -y
 
 $ pkg install php -y
 
-$ git clone https://github.com/Trainer-Pokemon/Bonstri
+$ git clone https://github.com/Trainer-Pokemon/Bons3
 
 $ cd Bons3
 
